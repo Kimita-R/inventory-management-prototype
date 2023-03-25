@@ -1,7 +1,5 @@
 # Inventory Management Prototype
 
-## Table of Contents 
-
 ## Description
 This is a python based project and is a prototype of an inventory management for a warehouse. 
 
