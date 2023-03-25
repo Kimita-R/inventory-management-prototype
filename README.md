@@ -29,4 +29,5 @@ The following information is stored about each product:
 * When running the inventory.py script it should be in the same folder/directory as the inventory.txt file
 * This software is not meant for commercial use
 
+![Screenshot of adding a new product.](https://github.com/Kimita-R/inventory-management-prototype/blob/master/assets/create-new-shoe.jpg)
 
