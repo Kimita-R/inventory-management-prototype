@@ -23,8 +23,8 @@ Users can use the program to do the following
 * Requires Python 3 or higher to run
 
 ### Installation
+* This program is a terminal application
 * Download project files and open in a python IDE and run the inventory.py file 
-* Alternatively from the command line open the project directory and run "python inventory.py" 
 
 ## Usage
 * *This software is not meant for commercial use*
